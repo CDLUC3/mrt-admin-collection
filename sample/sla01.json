@@ -1,0 +1,15 @@
+{
+   "TYPE": "sla",
+   "ENVIRONMENT": "development",
+   "NAME": "admin_test_sla",
+   "DESCRIPTION": "Test sla only, please delete",
+   "ARK": "ark:/99999/testark",
+   "NOTIFICATION": [
+      "testslaemail01@cdlib.org",
+      "testemail02@cdlib.org",
+      "testemail03@cdlib.org"
+   ],
+   "STORAGENODE": 9999,
+   "CREATIONDATE": "2020-06-23T15:23:34-07:00",
+   "MODIFICATIONDATE": "2020-06-23T15:23:34-07:00"
+}

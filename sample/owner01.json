@@ -1,0 +1,16 @@
+{
+   "TYPE": "owner",
+   "ENVIRONMENT": "development",
+   "NAME": "admin_test_owner",
+   "DESCRIPTION": "Test owner only, please delete",
+   "COLLECTION": "ark:/99999/testowner",
+   "ARK": "ark:/99999/testark",
+   "NOTIFICATION": [
+      "testowneremail01@cdlib.org",
+      "testemail02@cdlib.org",
+      "testemail03@cdlib.org"
+   ],
+   "STORAGENODE": 9999,
+   "CREATIONDATE": "2020-06-23T15:17:29-07:00",
+   "MODIFICATIONDATE": "2020-06-23T15:17:29-07:00"
+}

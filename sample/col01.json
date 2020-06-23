@@ -1,0 +1,16 @@
+{
+   "TYPE": "collection",
+   "ENVIRONMENT": "development",
+   "NAME": "admin_collection",
+   "DESCRIPTION": "Test collection only, please delete",
+   "ARK": "ark:/99999/testark",
+   "OWNER": "ark:/99999/testowner",
+   "NOTIFICATION": [
+      "testemail01@cdlib.org",
+      "testemail02@cdlib.org",
+      "testemail03@cdlib.org"
+   ],
+   "STORAGENODE": 9999,
+   "CREATIONDATE": "2020-06-22T16:02:14-07:00",
+   "MODIFICATIONDATE": "2020-06-22T16:02:14-07:00"
+}
